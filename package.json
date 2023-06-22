@@ -1,0 +1,26 @@
+{
+    "name": "recruitment-comprehensive-b",
+    "version": "1.0.0",
+    "description": "## Summary Show your skills! Here are some skills that all Codesmith graduates should have before moving on. There are 2 parts, each in their own directory. Follow the directions in this README for instructions on each part.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^7.17.0"
+    },
+    "scripts": {
+        "merge": "node util/merge.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CodesmithLLC/recruitment-assessment-comprehensive.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CodesmithLLC/recruitment-assessment-comprehensive/issues"
+    },
+    "homepage": "https://github.com/CodesmithLLC/recruitment-assessment-comprehensive#readme"
+}
